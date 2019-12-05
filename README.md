@@ -14,7 +14,7 @@ kplcloud已服务于宜人财富部分业务，稳定管理了上百个应用，
 
 ## 平台演示
 
-演示地址: [https://kplcloud.nsini.com](https://kplcloud.nsini.com)
+演示地址: [https://kplcloud.nsini.com/about.html](https://kplcloud.nsini.com/about.html)
 
 - 感谢 [@icowan](https://github.com/icowan) 赞助三台服务器
 - 感谢 [@xzghua](https://github.com/xzghua) 赞助一台服务器
@@ -78,8 +78,9 @@ $ make run
 
 ### 视频教程
 
-- [本地启动]
-- [创建一个应用]
+- [本地启动](https://www.bilibili.com/video/av75847198/)
+- [本地连接K8S](https://www.bilibili.com/video/av75890739/)
+- [创建一个应用](https://www.bilibili.com/video/av75898315/)
 
 ## 成员
 
